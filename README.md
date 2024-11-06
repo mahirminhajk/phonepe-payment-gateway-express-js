@@ -16,5 +16,5 @@ This is a simple payment gateway integration using PhonePe. This is a demo proje
 5. redirect to the success page
 
 ## PhonePe API documentation
-docs : https://developer.phonepe.com/docs/phonepe-payment-gateway/[https://developer.phonepe.com/docs/phonepe-payment-gateway/]
+docs : https://developer.phonepe.com/docs/phonepe-payment-gateway/
 
